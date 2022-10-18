@@ -3,6 +3,8 @@
 ## Notes
 
 * Intuition is that CIDs can be processed on Celestia (where exactly, is the question--gossipsub(?)), which route to bundlr, or equivalent service.
+* I beleive the entire lesson data fields (whether that be a smart contract like it is now, or a struct) should be included in the block type somewhere in this file...within the header struct perhaps? https://github.com/celestiaorg/rollmint/blob/main/types/block.go
+* 
 
 ### Resources
 
