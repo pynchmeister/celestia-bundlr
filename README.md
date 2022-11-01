@@ -1,5 +1,7 @@
 # celestia-bundlr
 
+## This has been moved [here](https://github.com/pynchmeister/celestia-data-storage/tree/main/arweave/bundlr) and can be deleted
+
 ## Notes
 
 * Intuition is that CIDs can be processed on Celestia (where exactly, is the question--gossipsub(?)), which route to bundlr, or equivalent service.
