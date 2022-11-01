@@ -1,6 +1,6 @@
 # celestia-bundlr
 
-## This has been moved [here](https://github.com/pynchmeister/celestia-data-storage/tree/main/arweave/bundlr) and can be deleted
+## This repo has been moved [here](https://github.com/pynchmeister/celestia-data-storage/tree/main/arweave/bundlr) and can be deleted
 
 ## Notes
 
